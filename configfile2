@@ -1,0 +1,18 @@
+worlds["My world"] = ".minecraft/saves/bloub"
+
+renders["normalrenderuppleft"] = {
+    "world": "My world",
+    "title": "normalrenderuppleft",
+    "rendermode": smooth_lighting,
+"northdirection" : "upper-left"
+}
+
+
+renders["normalrenderuppright"] = {
+    "world": "My world",
+    "title": "normalrenderuppright",
+"northdirection" : "upper-right",
+    "rendermode": smooth_lighting
+}
+
+outputdir = "/home/paul/Documents/mcmap"
